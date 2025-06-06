@@ -53,8 +53,4 @@ To build a robust and interpretable machine learning model that predicts student
 - seaborn, matplotlib
 - Jupyter Notebook
 
-## How to Run
-1. Clone the repository and download the dataset from UCI or use `student-mat.csv`
-2. Open `RM_Research_Code.ipynb` in Jupyter or Colab
-3. Run the notebook cells in order to reproduce results
 
